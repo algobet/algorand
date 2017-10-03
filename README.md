@@ -1,4 +1,7 @@
 # algorand
+Composite golang implementation of the Algorand protocol.
+
+Algorand is the Quarkonium's decentralized ledger with built-in infrastructural facilities.
 
 Algorand implementation is heavily developed, but can be interpreted in the following sources:
 - Whitepaper - [ Silvio Micali edition ](https://arxiv.org/abs/1607.01341) &middot; &middot; [ Algobet Labs edition ](http://wiki.quarkonium.org/papers/algorand-alpha/)
